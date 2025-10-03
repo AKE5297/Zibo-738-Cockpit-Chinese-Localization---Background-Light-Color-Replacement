@@ -39,3 +39,13 @@ Version: 1.0
 Last Updated: 2025.10.03  
 
 Enjoy your flight!
+
+
+
+中文版本
+预览图片请查看以下文件：
+JSC-1.png、JSC-2.png、JSC-3.png、JSC-4.png、KC-1.png、KC-2.png
+
+English Version
+For preview images, please refer to the following files:
+JSC-1.png, JSC-2.png, JSC-3.png, JSC-4.png, KC-1.png, KC-2.png
